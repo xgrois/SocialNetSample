@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32314.265
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNet.Api", "SocialNet.Api\SocialNet.Api.csproj", "{8FE057BD-01BB-43DA-BB40-1CF8B1DA4009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetSample.Data", "SocialNetSample.Data\SocialNetSample.Data.csproj", "{19EC2631-CFE1-4010-A6BB-4649C0003762}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D5EF5F6F-AA57-415C-A539-B784EC3F7816}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FE057BD-01BB-43DA-BB40-1CF8B1DA4009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE057BD-01BB-43DA-BB40-1CF8B1DA4009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE057BD-01BB-43DA-BB40-1CF8B1DA4009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE057BD-01BB-43DA-BB40-1CF8B1DA4009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19EC2631-CFE1-4010-A6BB-4649C0003762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19EC2631-CFE1-4010-A6BB-4649C0003762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19EC2631-CFE1-4010-A6BB-4649C0003762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19EC2631-CFE1-4010-A6BB-4649C0003762}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CBD7B74-D64E-41EA-85DF-49A9FA4D44D2}
+	EndGlobalSection
+EndGlobal
